@@ -3,14 +3,14 @@
     <channel>
         <title>Waytive Remote</title>
         <item>
-            <title>0.1.21</title>
-            <pubDate>Wed, 07 Oct 2026 04:00:36 +0900</pubDate>
+            <title>0.1.22</title>
+            <pubDate>Wed, 07 Oct 2026 05:36:48 +0900</pubDate>
             <link>https://waytive.ai</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/JamesCoder11/Waytive-Remote-releases/releases/download/v0.1.21/Waytive-Remote-0.1.21.zip" length="1793247" type="application/octet-stream" sparkle:edSignature="nMHGrEucEZ/MjEsdxwxhXG+Wky/An5essecQpCt+OAjFoTUNze9KCBIczJy+PWl7h883nU7gj/eHzOJgf5o3Cw=="/>
+            <enclosure url="https://github.com/JamesCoder11/Waytive-Remote-releases/releases/download/v0.1.22/Waytive-Remote-0.1.22.zip" length="1828008" type="application/octet-stream" sparkle:edSignature="rmTJyKsWn9OdoprUWnox3l9gCK0RMDNk0AesItCEObdO0SRiahQpwgrmhgzCJXSW82nEOjeFDzeAC2VquqgeBQ=="/>
         </item>
     </channel>
 </rss>
