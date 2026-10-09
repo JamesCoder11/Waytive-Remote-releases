@@ -3,14 +3,17 @@
     <channel>
         <title>Waytive Remote</title>
         <item>
-            <title>0.1.22</title>
-            <pubDate>Wed, 07 Oct 2026 05:36:48 +0900</pubDate>
-            <link>https://waytive.ai</link>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+            <title>0.2.0</title>
+            <pubDate>Sat, 10 Oct 2026 06:37:37 +0900</pubDate>
+            <link>https://github.com/JamesCoder11/Waytive-Remote-releases/releases/tag/v0.2.0</link>
+            <sparkle:informationalUpdate>
+                <sparkle:belowVersion>6</sparkle:belowVersion>
+            </sparkle:informationalUpdate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/JamesCoder11/Waytive-Remote-releases/releases/download/v0.1.22/Waytive-Remote-0.1.22.zip" length="1828008" type="application/octet-stream" sparkle:edSignature="rmTJyKsWn9OdoprUWnox3l9gCK0RMDNk0AesItCEObdO0SRiahQpwgrmhgzCJXSW82nEOjeFDzeAC2VquqgeBQ=="/>
+            <enclosure url="https://github.com/JamesCoder11/Waytive-Remote-releases/releases/download/v0.2.0/Waytive-Remote-0.2.0.zip" length="2438267" type="application/octet-stream" sparkle:edSignature="NhniTpBAuZkUSmIJaNkLdaE+HpnHsMVt7QWTyklsPgWLLpwpgn8Jxc5WP2XzndplDd/LpaRiXOGJAK60XFRcAQ=="/>
         </item>
     </channel>
 </rss>
